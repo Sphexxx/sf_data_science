@@ -31,6 +31,8 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 - Результаты оцениваются по среднему количеству попыток при 1000 повторений
 
 **Что практикуем**
-- Учимся писать красивый код на Python
+- Учимся писать красивый код на Python.
+- Учимся работать с IDE.
+- Учимся работать с GitHub.
 
 
