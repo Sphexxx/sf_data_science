@@ -5,16 +5,16 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 
 
 ## Оглавление.
-* [1. Описание проекта]()
-* [2. Какой кейс решаем?]()
-* [3. Этапы работы над проектом]()
-* [4. Результаты]()
+* [1. Описание проекта](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Описание-проекта)
+* [2. Какой кейс решаем?](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Какой-кейс-решаем)
+* [3. Этапы работы над проектом](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Этапы-работы-над-проектом)
+* [4. Результат](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Результат)
 
 
 ### Описание проекта
 + Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 + Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
@@ -43,9 +43,9 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 ## Файлы проекта
 + Исходный датасет [База резюме HeadHunter](https://drive.google.com/file/d/1EdKFdMKIaq025Rim9B5yobgqzP_cRQ6n/view?usp=sharing)
 + Данные о курсе валют [за период с 29.12.2017 по 05.12.2019](https://drive.google.com/file/d/1-ttzdId61rLODjcFNcpdzmKnYrz6NrX-/view?usp=sharing)
-+ Основной файл проекта [Project_1_HH]()
++ Основной файл проекта [Project_1_HH](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/Project_1_HH.ipynb)
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 ## Этапы работы над проектом
 + Базовый анализ структуры данных.
@@ -56,9 +56,9 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 + Загрузка проекта на GitHub.
 + Предоставление ссылки на проект.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 ## Результаты
 + В ходе работы над проектом были решены несколько задач, построены графики и освоена роль аналитика.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Оглавление)
