@@ -1,3 +1,10 @@
+# project 1
+project_1/data/dst-3.0_16_1_hh_database.csv
+data/dst-3.0_16_1_hh_database.csv
+project_1/data/ExchangeRates.csv
+data/ExchangeRates.csv
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
