@@ -58,7 +58,7 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 
 :arrow_up:[к оглавлению](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
-## Результаты
+## Результат
 + В ходе работы над проектом были решены несколько задач, построены графики и освоена роль аналитика.
 
 :arrow_up:[к оглавлению](https://github.com/Sphexxx/sf_data_science/blob/main/project_1/README.md#Оглавление)
