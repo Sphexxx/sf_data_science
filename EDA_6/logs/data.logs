@@ -1,0 +1,21 @@
+INFO: 2022-09-19 11:48:04,915: Data
+INFO: 2022-09-19 11:48:05,209: Data shape (110527, 14)
+INFO: 2022-09-19 11:48:05,519: Percentage of women: 0.653882342398853
+INFO: 2022-09-19 11:48:05,768: Percentage of men: 0.346117657601147
+ERROR: 2022-09-19 11:48:05,994: Data shape is incorrect!
+ERROR: 2022-09-19 12:19:25,926: Data shape is incorrect!
+ERROR: 2022-09-19 12:19:25,926: Data shape is incorrect!
+WARNING: 2022-09-19 12:23:35,085: Это сообщение-предупреждение
+WARNING: 2022-09-19 12:23:35,085: Это сообщение-предупреждение
+ERROR: 2022-09-19 12:23:35,086: Это сообщение об ошибке
+ERROR: 2022-09-19 12:23:35,086: Это сообщение об ошибке
+CRITICAL: 2022-09-19 12:23:35,086: Это критическое сообщение
+CRITICAL: 2022-09-19 12:23:35,086: Это критическое сообщение
+ERROR: 2022-09-19 12:23:38,546: Data shape is incorrect!
+ERROR: 2022-09-19 12:23:38,546: Data shape is incorrect!
+ERROR: 2022-09-19 12:23:38,546: Data shape is incorrect!
+INFO: 2022-09-19 12:26:20,354: Data
+INFO: 2022-09-19 12:26:20,611: Data shape (110527, 14)
+INFO: 2022-09-19 12:26:20,902: Percentage of women: 0.653882342398853
+INFO: 2022-09-19 12:26:21,210: Percentage of men: 0.346117657601147
+ERROR: 2022-09-19 12:26:21,367: Data shape is incorrect!
