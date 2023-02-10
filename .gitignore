@@ -4,6 +4,7 @@ data/dst-3.0_16_1_hh_database.csv
 project_1/data/ExchangeRates.csv
 data/ExchangeRates.csv
 *.csv
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
