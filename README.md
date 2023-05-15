@@ -9,3 +9,4 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 + [Проект 4. Задача классификации](https://github.com/Sphexxx/sf_data_science/tree/main/project_4)
 + [Проект 5. Задача регрессии](https://github.com/Sphexxx/sf_data_science/tree/main/project_5) 
 + [Проект 6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/Sphexxx/sf_data_science/tree/main/project_6)
++ [Мини проект. ВВП Ганы](https://github.com/Sphexxx/sf_data_science/blob/main/MATH%26ML_13/project_ml_13.ipynb)
